@@ -8,7 +8,7 @@ This repository provides an end-to-end notebook demonstrating how to fine-tune L
 
 ## What's Included
 
-- **Complete Fine-Tuning Notebook**: `finetune-llm-pubmed-chat-complete.ipynb` - A comprehensive step by step notebook walking through the entire fine-tuning process
+- **Complete Fine-Tuning Notebook**: [`finetune-llm-pubmed-chat-complete.ipynb`](https://github.com/mfang73/llm-finetuning-guide/blob/main/finetune-llm-pubmed-chat-complete.ipynb) - A comprehensive step by step notebook walking through the entire fine-tuning process
 - **MLflow Integration**: Built-in experiment tracking and model versioning using MLflow
 
 ## Prerequisites
